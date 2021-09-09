@@ -1,0 +1,17 @@
+license: ""
+rememberPlaceAtRestart: false
+autoStart: true
+autoRestartAtEnd: false
+restartDelay: 10000
+winMessage: ""
+party:
+  lvl1:
+    objectif: 140
+    recompences:
+      - ""
+      - ""
+  lvl2:
+    objectif: 200
+    recompences:
+      - ""
+      - ""

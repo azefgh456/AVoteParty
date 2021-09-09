@@ -1,0 +1,7 @@
+name: AVoteParty
+author: azefgh456
+version: 1.1.0
+main: fr.acore.spigot.AVoteParty
+depend: [ACoreSpigotAPI]
+commands:
+  voteparty:
